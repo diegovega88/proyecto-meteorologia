@@ -1,4 +1,3 @@
-import pytest
 from weather.utils import celsius_to_fahrenheit
 
 
