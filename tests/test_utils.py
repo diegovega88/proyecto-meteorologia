@@ -2,7 +2,6 @@ from weather.utils import celsius_to_fahrenheit
 
 
 class TestCelsiusToFahrenheit:
-
     def test_freezing_point(self):
         assert celsius_to_fahrenheit(0) == 32.0
 
